@@ -42,7 +42,7 @@ const Intro = () => {
           <a href="https://github.com/CM-007" target="_blank">
           <img src={Github} alt="" />
           </a>
-          <a href="https://www.linkedin.com/in/chetan-more-2564a1216" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/chetan-more-2564a1216" target="_blank">
           <img src={LinkedIn} alt="" />
           </a>
           <img src={Instagram} alt="" />
